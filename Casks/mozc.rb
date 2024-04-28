@@ -1,7 +1,7 @@
 cask "mozc" do
   arch arm: "arm64", intel: "intel64"
 
-  version "2.29.5448.100"
+  version "2.30.5448.100"
   sha256 arm:   "728646c1900c702818790832c78d1d09589c7694e175595f05d8d005704989e7",
          intel: "62ee79f7555b7249f0d772e9e921431fe3177b5f11528583ab355e2a547c8a32"
 
