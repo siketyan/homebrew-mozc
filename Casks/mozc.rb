@@ -1,9 +1,9 @@
 cask "mozc" do
   arch arm: "arm64", intel: "intel64"
 
-  version "2.30.5490.100"
-  sha256 arm:   "97f345ace54ee14ff01059c2138dcc09b715e6212b6919f0e54db128dddcd582",
-         intel: "7e68d80dad309839c22380997b18d5ef2703e1e58ba6444307cb7be386336ace"
+  version "2.30.5544.102"
+  sha256 arm:   "8a99b0b8fffaf3fdbedc55308f083042c31767ebdb304fd32587917c29c9b476",
+         intel: "a6dd5e9277525c91befeac1ae8b82efd6dee9c9deca4529593bce4132f24693c"
 
   url "https://github.com/siketyan/homebrew-mozc/releases/download/#{version}/Mozc_#{arch}.pkg.zip"
 
